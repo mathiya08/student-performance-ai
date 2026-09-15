@@ -52,8 +52,6 @@ student-performance-ai/
 │   └── student_data.csv
 ├── models/
 │   └── student_performance_model.pkl
-├── notebooks/
-├── venv/
 ├── app.py
 ├── train_model.py
 ├── requirements.txt
