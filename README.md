@@ -2,6 +2,10 @@
 
 AI-powered web application that predicts a student's final academic score based on study habits, attendance, previous performance, assignment completion, and sleep hours.
 
+## 🌐 Live Demo
+
+👉 [Try the Student Performance AI](https://student-performance-ai-jfowttdhpxhjephmacegvw.streamlit.app/)
+
 ## 🚀 Features
 
 - 🎯 Predicts final student score
